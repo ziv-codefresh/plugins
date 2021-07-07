@@ -1,3 +1,6 @@
+> There is a new Helm plugin with added capabilities, we are keeping this plugin as is for backward-compatibility.
+The new plugin can be found here: [/incubator/helm](https://github.com/codefresh-io/plugins/tree/master/incubator/helm)
+
 # Codefresh Helm Plugin
 
 Use Codefresh [Helm](https://helm.sh) plugin to deploy a Helm chart into specified (by context) Kubernetes cluster.
